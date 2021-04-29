@@ -1,3 +1,7 @@
 #site-header {
   background-color: #e2aa9f;
 }
+
+h1.entry-title, h2.entry-title {
+  font-size: 4rem;
+}
