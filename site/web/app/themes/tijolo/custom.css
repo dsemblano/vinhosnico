@@ -1,14 +1,21 @@
 :root {
-  --primary: #B94B3E;
+  /* --primary: #B94B3E;
   --secondary: #214255;
   --bg: #FEFBF8;
-  --accent: #121B22;
+  --accent: #121B22; */
+  --primary: white;
+  --secondary: #FF9678;
+  --bg: #FEFBF8;
+  --bg2: #E5DBCE;
+  --title: #970008;
+  --text: #3F1A13;
+
+  /* background logo */
+  --accent: #E2AA9F; 
 }
 
 body,
-h1,
 h2,
-h3,
 h4,
 h5,
 h6,
@@ -18,7 +25,21 @@ bdi,
 .wfs-special-note-label,
 .wfs-sidebar-menu ul a,
 .fs-container a {
-  color: var(--accent) !important;
+  color: var(--text) !important;
+}
+
+h1,
+h3.wfs-category-title {
+  color: var(--title) !important;
+}
+
+button.fs-btn-primary {
+  background-color: var(--title) !important;
+}
+
+/* Titulo tipo vinhos */
+entry-content h3 {
+  background-color: var(--title) !important;
 }
 
 body.custom-background {
@@ -69,7 +90,7 @@ body:not(.overlay-header) .primary-menu>li>.icon,
 .header-footer-group .color-accent,
 .header-footer-group .color-accent-hover:hover,
 a {
-  color: var(--primary);
+  color: var(--text);
 }
 
 /* menu */
@@ -77,9 +98,9 @@ a {
   display: inline-flex;
   margin: 0em 1em 1em 0em;
   padding: 1em 1em 1em 1em;
-  background-color: white;
+  background-color: var(--bg2);
   width: 30%;
-  height: 20em;
+  height: auto;
   border-radius: 7px;
   box-shadow: 1px 2px 11px 0 rgb(0 0 0 / 16%);
 }
