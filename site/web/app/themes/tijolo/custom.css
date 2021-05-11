@@ -94,7 +94,7 @@ a {
 }
 
 /* menu */
-#wfs-food-items .fs-row {
+/* #wfs-food-items .fs-row {
   display: inline-flex;
   margin: 0em 1em 1em 0em;
   padding: 1em 1em 1em 1em;
@@ -119,4 +119,19 @@ a {
 .wfs-food-item-image-container img {
   height: 100%;
   min-width: 75%;
+} */
+
+/* Colunas Vinhos Menu */
+.fs-2-columns {
+  padding: 0;
+  background-color: #E5DBCE;
+  border-radius: 5px 5px 5px 5px;
+  margin: 0em 2em 2em 1em;
+  padding: 1em 1em 1em 1em;
+}
+
+@media (min-width: 1200px) {
+  .fs-col-lg-6 {
+    width: 45%;
+  }
 }
