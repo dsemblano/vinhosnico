@@ -122,6 +122,12 @@ a {
 } */
 
 /* Colunas Vinhos Menu */
+
+#wfs-food-items {
+  flex: 3;
+  flex-grow: 4;
+}
+
 .fs-2-columns {
   padding: 0;
   background-color: #E5DBCE;
@@ -143,7 +149,7 @@ a {
 
 @media (min-width: 1200px) {
   .fs-col-lg-6 {
-    width: 45%;
+    width: 25%;
   }
   /* .wfs-food-item-image-container img {
     width: 35% !important;
