@@ -128,23 +128,31 @@ a {
   border-radius: 5px 5px 5px 5px;
   margin: 0em 2em 2em 1em;
   padding: 1em 1em 1em 1em;
+  text-align: center;
+}
+
+.wfs-food-item-image-container {
+  padding-left: 0;
 }
 
 .wfs-food-item-image-container img {
-  width: 100% !important;
+  /* width: 100% !important; */
+    width: 250px !important;
+    height: 250px;
 }
 
 @media (min-width: 1200px) {
   .fs-col-lg-6 {
     width: 45%;
   }
-  .wfs-food-item-image-container img {
+  /* .wfs-food-item-image-container img {
     width: 35% !important;
-  }
+  } */
 }
 
 .wfs-food-item-container {
   flex-flow: column;
+  align-items: center;
 }
 
 .wfs-food-item-container:after {
