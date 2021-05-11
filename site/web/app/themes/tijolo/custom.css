@@ -135,3 +135,11 @@ a {
     width: 45%;
   }
 }
+
+.wfs-food-item-container {
+  flex-flow: column;
+}
+
+.wfs-food-item-image-container img {
+  width: 95% !important;
+}
