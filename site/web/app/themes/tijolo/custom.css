@@ -130,16 +130,19 @@ a {
   padding: 1em 1em 1em 1em;
 }
 
+.wfs-food-item-image-container img {
+  width: 100% !important;
+}
+
 @media (min-width: 1200px) {
   .fs-col-lg-6 {
     width: 45%;
+  }
+  .wfs-food-item-image-container img {
+    width: 35% !important;
   }
 }
 
 .wfs-food-item-container {
   flex-flow: column;
-}
-
-.wfs-food-item-image-container img {
-  width: 95% !important;
 }
