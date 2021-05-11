@@ -146,3 +146,11 @@ a {
 .wfs-food-item-container {
   flex-flow: column;
 }
+
+.wfs-food-item-container:after {
+  border-bottom: none;
+}
+
+.wfs-food-item-summery {
+  line-height: 2.5;
+}
