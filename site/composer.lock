@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1bc95aa3c6b5f09624dce859b66fe6a1",
+    "content-hash": "775a798f44281798689157d85eedeeaf",
     "packages": [
         {
             "name": "composer/installers",
@@ -930,6 +930,24 @@
             "time": "2021-01-20T15:23:13+00:00"
         },
         {
+            "name": "wpackagist-plugin/click-to-chat-for-whatsapp",
+            "version": "3.3.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/click-to-chat-for-whatsapp/",
+                "reference": "tags/3.3.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/click-to-chat-for-whatsapp.3.3.2.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/click-to-chat-for-whatsapp/"
+        },
+        {
             "name": "wpackagist-plugin/food-store",
             "version": "1.3.12",
             "source": {
@@ -984,6 +1002,42 @@
             "homepage": "https://wordpress.org/plugins/shortcode-widget/"
         },
         {
+            "name": "wpackagist-plugin/tawkto-live-chat",
+            "version": "0.5.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/tawkto-live-chat/",
+                "reference": "tags/0.5.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/tawkto-live-chat.0.5.4.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/tawkto-live-chat/"
+        },
+        {
+            "name": "wpackagist-plugin/woo-picpay",
+            "version": "1.2.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/woo-picpay/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/woo-picpay.zip?timestamp=1615388965"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/woo-picpay/"
+        },
+        {
             "name": "wpackagist-plugin/woocommerce",
             "version": "5.3.0",
             "source": {
@@ -1002,6 +1056,114 @@
             "homepage": "https://wordpress.org/plugins/woocommerce/"
         },
         {
+            "name": "wpackagist-plugin/woocommerce-advanced-free-shipping",
+            "version": "1.1.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/woocommerce-advanced-free-shipping/",
+                "reference": "tags/1.1.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/woocommerce-advanced-free-shipping.1.1.4.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/woocommerce-advanced-free-shipping/"
+        },
+        {
+            "name": "wpackagist-plugin/woocommerce-correios",
+            "version": "3.8.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/woocommerce-correios/",
+                "reference": "tags/3.8.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/woocommerce-correios.3.8.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/woocommerce-correios/"
+        },
+        {
+            "name": "wpackagist-plugin/woocommerce-extra-checkout-fields-for-brazil",
+            "version": "3.7.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/woocommerce-extra-checkout-fields-for-brazil/",
+                "reference": "tags/3.7.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/woocommerce-extra-checkout-fields-for-brazil.3.7.2.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/woocommerce-extra-checkout-fields-for-brazil/"
+        },
+        {
+            "name": "wpackagist-plugin/woocommerce-gateway-paypal-express-checkout",
+            "version": "2.1.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/woocommerce-gateway-paypal-express-checkout/",
+                "reference": "tags/2.1.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/woocommerce-gateway-paypal-express-checkout.2.1.1.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/"
+        },
+        {
+            "name": "wpackagist-plugin/woocommerce-pagarme",
+            "version": "2.5.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/woocommerce-pagarme/",
+                "reference": "tags/2.5.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/woocommerce-pagarme.2.5.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/woocommerce-pagarme/"
+        },
+        {
+            "name": "wpackagist-plugin/woocommerce-pagseguro",
+            "version": "2.14.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/woocommerce-pagseguro/",
+                "reference": "tags/2.14.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/woocommerce-pagseguro.2.14.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/woocommerce-pagseguro/"
+        },
+        {
             "name": "wpackagist-plugin/wp-enable-webp",
             "version": "1.0",
             "source": {
@@ -1018,6 +1180,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-enable-webp/"
+        },
+        {
+            "name": "wpackagist-plugin/wps-hide-login",
+            "version": "1.8.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wps-hide-login/",
+                "reference": "tags/1.8.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wps-hide-login.1.8.5.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wps-hide-login/"
         }
     ],
     "packages-dev": [
