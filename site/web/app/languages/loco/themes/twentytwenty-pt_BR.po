@@ -1,0 +1,705 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Twenty\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-13 15:56+0000\n"
+"PO-Revision-Date: 2021-05-13 15:57+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: twentytwenty"
+
+#. %d: ID of a post.
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-page.php:70
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#. 1: Comment date, 2: Comment time.
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php:68
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:130
+msgid ""
+"&#8220;Cyborgs, as the philosopher Donna Haraway established, are not "
+"reverent. They do not remember the cosmos.&#8221;"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/404.php:24
+msgid "404 not found"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:118
+msgid "<em>Dates</em><br>Aug 1 — Dec 1"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:123
+msgid "<em>Location</em><br>Exhibit Hall B"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:128
+msgid "<em>Price</em><br>Included"
+msgstr ""
+
+#. Description of the theme
+msgid "A child theme for Twenty Twenty."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/template-tags.php:396
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:151
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:165
+msgid "Abstract Rectangles"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:488
+msgid "Accent Color"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:89
+msgid ""
+"An awe-inspiring collection of books, prints, and gifts from our exhibitions."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:183
+msgid "Apply a custom color for links, buttons, featured images."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:70
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:102
+msgid "August 1 -- December 1"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:157
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:171
+msgid "August 1 — December 1"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:74
+msgid "Award-winning exhibitions featuring internationally-renowned artists."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:516
+msgid "Background Color"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:48
+msgid "Become a Member"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:145
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr ""
+
+#. %s: Author name.
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/entry-author-bio.php:20
+#: ../../../wp/wp-content/themes/twentytwenty/inc/template-tags.php:357
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php:133
+msgid "By Post Author"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:33
+msgid "Call to Action"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/entry-header.php:36
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/content-cover.php:70
+#: ../../../wp/wp-content/themes/twentytwenty/inc/template-tags.php:392
+msgid "Categories"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/modal-menu.php:21
+msgid "Close Menu"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/modal-search.php:26
+msgid "Close search"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:126
+msgctxt "color"
+msgid "Custom"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:125
+msgctxt "color"
+msgid "Default"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:493
+msgctxt "color"
+msgid "Primary"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:498
+msgctxt "color"
+msgid "Secondary"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/comments.php:88
+msgid "Comments"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/comments.php:127
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: Number of comments, 2: Post title.
+#: ../../../wp/wp-content/themes/twentytwenty/comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Post title.
+#: ../../../wp/wp-content/themes/twentytwenty/comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/content.php:36
+msgid "Continue reading"
+msgstr ""
+
+#. Copyright date format, see https://www.php.net/manual/datetime.format.php
+#: ../../../wp/wp-content/themes/twentytwenty/footer.php:25
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#. Name of the template
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:281
+msgid "Cover Template"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:306
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr ""
+
+#. Author of the theme
+msgid "Daniel Semblano"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:263
+msgid "Desktop Expanded Menu"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:262
+msgid "Desktop Horizontal Menu"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:61
+msgid "Double Call to Action"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php:82
+msgid "Edit"
+msgstr ""
+
+#. %s: Post title. Only visible to screen readers.
+#: ../../../wp/wp-content/themes/twentytwenty/inc/template-tags.php:207
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:108
+msgid "Event Details"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/modal-menu.php:117
+msgid "Expanded Social links"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:142
+msgid "Featured Content"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:305
+msgid "Fixed Background Image"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/footer-menus-widgets.php:37
+msgid "Footer"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:369
+msgid "Footer #1"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:381
+msgid "Footer #2"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:265
+msgid "Footer Menu"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:114
+msgid "From Signac to Matisse"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:269
+msgid "Full text"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Template"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:101
+msgid "Header &amp; Footer Background Color"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://danielsemblano.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://tijolocwb.com.br"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/footer.php:32
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:187
+msgid "Introduction"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:151
+msgid "Join the Club"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/comments.php:34
+msgid "Leave a comment"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:396
+msgid ""
+"Make sure that the contrast is high enough so that the text is readable."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:45
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:148
+msgid ""
+"Members get access to exclusive exhibits and sales. Our memberships cost $99."
+"99 and are billed annually."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/header.php:76
+#: ../../../wp/wp-content/themes/twentytwenty/header.php:137
+msgid "Menu"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/modal-menu.php:48
+msgctxt "menu"
+msgid "Expanded"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/header.php:88
+msgctxt "menu"
+msgid "Horizontal"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/modal-menu.php:73
+msgctxt "menu"
+msgid "Mobile"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:264
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:543
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:549
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:537
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:531
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr ""
+
+#. This text contains HTML to allow the text to be shorter on small screens.
+#. The text inside the span with the class nav-short will be hidden on small screens.
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/comments.php:74
+msgid "Newer Comments"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/index.php:51
+msgid "Nothing Found"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:85
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:117
+msgid "October 1 -- December 1"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/comments.php:75
+msgid "Older Comments"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:267
+msgid "On archive pages, posts show:"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:352
+msgid "Overlay Background Color"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:395
+msgid "Overlay Opacity"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:374
+msgid "Overlay Text Color"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/content-cover.php:138
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/content.php:48
+msgid "Page"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/404.php:17
+msgid "Page Not Found"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/content-cover.php:138
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/navigation.php:25
+msgid "Post"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/template-tags.php:350
+msgid "Post author"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/template-tags.php:374
+msgid "Post date"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/footer.php:33
+msgid "Powered by WordPress"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:177
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:187
+msgid "Primary"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:123
+msgid "Primary Color"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:78
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:160
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:174
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:73
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:88
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:105
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:120
+msgid "Read More"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:81
+msgid "Retina logo"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php:56
+msgid "says:"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:82
+msgid ""
+"Scales the logo to half its uploaded size, making it sharp on high-res "
+"screens."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/content-cover.php:88
+msgid "Scroll Down"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/index.php:101
+msgid "search again"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/searchform.php:24
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/modal-search.php:20
+msgid "Search for:"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/index.php:32
+msgid "Search:"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:283
+msgid ""
+"Settings for the \"Cover Template\" page template. Add a featured image to "
+"use as background."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:93
+msgid "Shop Now"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:544
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:550
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:538
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:532
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:246
+msgid "Show author bio"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:225
+msgid "Show search in header"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-page.php:107
+#: ../../../wp/wp-content/themes/twentytwenty/inc/template-tags.php:558
+msgid "Show sub menu"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:344
+msgid "Skip to the content"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/footer-menus-widgets.php:57
+msgid "Social links"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:197
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:266
+msgid "Social Menu"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/template-tags.php:448
+msgid "Sticky post"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:503
+msgid "Subtle Background"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:270
+msgid "Summary"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:42
+msgid "Support the Museum and Get Exclusive Offers"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/template-tags.php:410
+msgid "Tags"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:353
+msgid "The color used for the overlay. Defaults to the accent color."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:375
+msgid "The color used for the text in the overlay."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:137
+msgid ""
+"The exhibitions are produced by UMoMA in collaboration with artists and "
+"museums around the world and they often attract international attention. "
+"UMoMA has received a Special Commendation from the European Museum of the "
+"Year, and was among the top candidates for the Swedish Museum of the Year "
+"Award as well as for the Council of Europe Museum Prize."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:168
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:99
+msgid "The Life I Deserve"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:71
+msgid "The Museum"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:48
+msgid "The New UMoMA Opens its Doors"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/404.php:19
+msgid ""
+"The page you were looking for could not be found. It might have been removed,"
+" renamed, or did not exist in the first place."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:56
+msgid ""
+"The premier destination for modern art in Northern Sweden. Open from 10 AM "
+"to 6 PM every day during the summer months."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:194
+msgid "The Premier Destination for Modern Art in Sweden"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:86
+msgid "The Store"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:82
+msgid "Theatre of Operations"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php:202
+msgid "Theme Options"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:39
+msgctxt "Theme starter content"
+msgid "The New UMoMA Opens its Doors"
+msgstr ""
+
+#. Name of the theme
+msgid "Tijolo tema"
+msgstr ""
+
+#. %s: HTML character for up arrow.
+#: ../../../wp/wp-content/themes/twentytwenty/footer.php:43
+#, php-format
+msgid "To the top %s"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/header.php:53
+#: ../../../wp/wp-content/themes/twentytwenty/header.php:157
+msgctxt "toggle text"
+msgid "Search"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:20
+msgid "Twenty Twenty"
+msgstr ""
+
+#. %s: HTML character for up arrow.
+#: ../../../wp/wp-content/themes/twentytwenty/footer.php:49
+#, php-format
+msgid "Up %s"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/template-parts/entry-author-bio.php:29
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/index.php:48
+msgid ""
+"We could not find any results for your search. You can give it another try "
+"through the search form below."
+msgstr ""
+
+#. %s: Number of search results.
+#: ../../../wp/wp-content/themes/twentytwenty/index.php:39
+#, php-format
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:371
+msgid ""
+"Widgets in this area will be displayed in the first column in the footer."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/functions.php:383
+msgid ""
+"Widgets in this area will be displayed in the second column in the footer."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:134
+msgid ""
+"With seven floors of striking architecture, UMoMA shows exhibitions of "
+"international contemporary art, sometimes along with art historical "
+"retrospectives. Existential, political and philosophical issues are "
+"intrinsic to our programme. As visitor you are invited to guided tours "
+"artist talks, lectures, film screenings and other events with free admission"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:197
+msgid ""
+"With seven floors of striking architecture, UMoMA shows exhibitions of "
+"international contemporary art, sometimes along with art historical "
+"retrospectives. Existential, political, and philosophical issues are "
+"intrinsic to our program. As visitor, you are invited to guided tours artist "
+"talks, lectures, film screenings, and other events with free admission."
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/inc/block-patterns.php:154
+#: ../../../wp/wp-content/themes/twentytwenty/inc/starter-content.php:67
+msgid "Works and Days"
+msgstr ""
+
+#: ../../../wp/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php:98
+msgid "Your comment is awaiting moderation."
+msgstr ""
