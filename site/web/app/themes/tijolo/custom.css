@@ -31,6 +31,26 @@ bdi,
 h1,
 h3.wfs-category-title {
   color: var(--title) !important;
+  position: relative;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+h3.wfs-category-title::before {
+  content: '';
+  display: block;
+  background: var(--accent);
+  opacity: 0.6;
+  height: 15px;
+  width: 10%;
+  position: absolute;
+  left: 3%;
+  bottom: 5px;
+  z-index: -1;
+  -webkit-transform-origin: left bottom;
+  transform-origin: left bottom;
+  -webkit-animation: 0.5s cubic-bezier(.15,.75,.4,1) 0s line_animate;
+  animation: 0.5s cubic-bezier(.15,.75,.4,1) 0s line_animate;
 }
 
 button.fs-btn-primary {
