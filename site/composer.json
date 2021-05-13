@@ -51,6 +51,8 @@
     "wpackagist-plugin/woo-picpay":">=1.1.5",
     "wpackagist-plugin/click-to-chat-for-whatsapp":">=3.0.3",
     "wpackagist-plugin/tawkto-live-chat":">=0.5.3",
+    "wpackagist-plugin/loco-translate":">=2.3.3",
+    "wpackagist-plugin/automatic-translator-addon-for-loco-translate":">=2.1.1",
     "wpackagist-plugin/wps-hide-login":">=1.5.4.2",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0"
